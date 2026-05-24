@@ -1,4 +1,6 @@
-pandas
-scikit-learn
-xgboost
-numpy
+numpy==2.4.1
+pandas==2.3.3
+scikit-learn==1.8.0
+scipy==1.16.3
+xgboost==3.2.0
+optuna==4.8.0
