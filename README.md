@@ -307,18 +307,6 @@ The notebook walks through:
 - Cross validation
 - Performance comparison
 
----
-
-## 📈 Future Improvements
-
-- [ ] FastAPI deployment
-- [ ] Streamlit prediction interface
-- [ ] Model persistence using Joblib
-- [ ] SHAP model explainability
-- [ ] Docker containerization
-- [ ] CI/CD integration
-
----
 
 ## 📬 Contact
 
